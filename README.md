@@ -1,3 +1,5 @@
+![An image of an orange triangle in a gnome window, behind it a console window is seen](https://imgur.com/gallery/eXygBIc)
+
 # What is SimpleOpenTK
 This project is a basic setup of using [OpenTK](https://opentk.net/) with .NET 6 in a way that a developer can easily build both Windows and Linux binaries, without any platform specific code or compiler directives.
 
